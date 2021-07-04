@@ -14,7 +14,7 @@ Each part will be published as it becomes available (i.e in a non-linear order).
 
 ## Table of contents
 
-### PART 0: ACCESSIBILITY
+### [PART 0: ACCESSIBILITY](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/0.Accessibility.pdf)
 1.	Default themes: Switch Dark/Light themes to suit your visual needs.
 2.	Default languages: Change the interface language to suit your translation needs.
 
@@ -26,7 +26,7 @@ Each part will be published as it becomes available (i.e in a non-linear order).
 
 ### PART IV: GOVERNANCE
 
-### PART V: POLKADOT-JS (Substrate setups)
+### [PART V: POLKADOT-JS (Substrate setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/5.PolkadotJS%20(Substrate).pdf)
 1.	Substrate accounts: Set Substrate networks for your Polkadot-JS accounts. 
 2.	Substrate chains: Switch between Relay chains/Parachains/Testnets’ interfaces.
 
