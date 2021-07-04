@@ -2,11 +2,9 @@
 
 A comprehensive collection of step-by-step instructions for [Polkadot-JS Apps](https://polkadot.js.org/apps/#/accounts).
 
-
 ## Description
 
 Find your way around Polkadot-JS Apps by using our downloadable documentation.
-
 
 ## Getting Started
 This guide is divided into 9 parts.
@@ -14,10 +12,9 @@ These 9 parts are ordered in level of difficulty (Beginner -> Advanced).
 Each part covers multiple functionalities of Polkadot-JS Apps.
 Each part will be published as it becomes available (i.e in a non-linear order).
 
-
 ## Table of contents
 
-### PART 0: ACCESSIBILITY
+### [PART 0: ACCESSIBILITY](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/0.Accessibility.pdf)
 1.	Default themes: Switch Dark/Light themes to suit your visual needs.
 2.	Default languages: Change the interface language to suit your translation needs.
 
@@ -29,7 +26,7 @@ Each part will be published as it becomes available (i.e in a non-linear order).
 
 ### PART IV: GOVERNANCE
 
-### PART V: POLKADOT-JS (Substrate setups)
+### [PART V: POLKADOT-JS (Substrate setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/5.PolkadotJS%20(Substrate).pdf)
 1.	Substrate accounts: Set Substrate networks for your Polkadot-JS accounts. 
 2.	Substrate chains: Switch between Relay chains/Parachains/Testnets’ interfaces.
 
@@ -39,16 +36,14 @@ Each part will be published as it becomes available (i.e in a non-linear order).
 
 ### PART VIII: DEVELOPER
 
-
+<br/>
 ## Contribute!
 
 Please advise if you notice any typo or error in this guide so that I can rectify it ASAP.
 
-
 ## Authors
 
 [@Anaelle LTD](https://t.me/AnaelleLTD)
-
 
 ## Version History
 
@@ -59,7 +54,6 @@ Please advise if you notice any typo or error in this guide so that I can rectif
 ## License
 
 Free to download/convert/translate.
-
 
 ## Acknowledgments
 
