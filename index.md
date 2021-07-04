@@ -44,16 +44,6 @@ Please advise if you notice any typo or error in this guide so that I can rectif
 
 [@Anaelle LTD](https://t.me/AnaelleLTD)
 
-## Version History
-
-* 0.1
-    * Initial Release.
-    * Part 0 and 5 (Prototypes).
-
-## License
-
-Free to download/convert/translate.
-
 ## Acknowledgments
 
 Official documentation from Parity Technologies and Web3 Foundation:
