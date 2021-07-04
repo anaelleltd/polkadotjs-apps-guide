@@ -36,7 +36,7 @@ Each part will be published as it becomes available (i.e in a non-linear order).
 
 ### PART VIII: DEVELOPER
 
-<br/>
+<br></br>
 ## Contribute!
 
 Please advise if you notice any typo or error in this guide so that I can rectify it ASAP.
