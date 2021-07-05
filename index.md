@@ -10,7 +10,7 @@ Find your way around Polkadot-JS Apps by using our downloadable documentation.
 This guide is divided into 9 parts.
 These 9 parts are ordered in level of difficulty (Beginner -> Advanced).
 Each part covers multiple functionalities of Polkadot-JS Apps.
-Each part will be published as it becomes available (i.e in a non-linear order).
+Each part will be published as it becomes available (non-linear).
 
 ## Table of contents
 
