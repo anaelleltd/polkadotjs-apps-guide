@@ -20,6 +20,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 
 ### [PART I: ACCOUNTS (Basic setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/1.Accounts%20(Basic).pdf)
 1.	Accounts: Manage your accounts.
+
         - a) Create a Polkadot-JS account from a new Seed and save it in a JSON file.
         - b)	Import a Polkadot-JS account from a JSON file.
         - c)	Add a Polkadot-JS account from a QR Code.
@@ -36,7 +37,8 @@ Each part will be published as it becomes available (i.e non-linearly).
 ### PART II: NETWORK
 1.	Explorer: Explore latest on-chain data.
 2.	Staking: Explore staking-related operations.
-3.	[Parachains: Explore parachain-related activities.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.3.Network.pdf) 
+3.	[Parachains: Explore parachain-related activities.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.3.Network.pdf)
+
         - a)	View general parachain information.
         - b)	View onboarded parathreads.
         - c)	View auctions’ progress.
