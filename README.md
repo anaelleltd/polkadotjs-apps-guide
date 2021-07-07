@@ -27,7 +27,6 @@ Each part will be published as it becomes available (i.e non-linearly).
 - e) Set up a Polkadot-JS Proxied account.
 - f) Check your account information, receive funds at your KSM address and view your KSM balances.
 - g) Generate a vanity address.
-
 2.	**Address book:** Bookmark your favourite KSM addresses as contacts.
 3.	**Claim tokens:** Claim your KSM from your ETH address.
 4.	**Transfer:** Send KSM to another KSM address.
@@ -42,7 +41,6 @@ Each part will be published as it becomes available (i.e non-linearly).
 - b) View onboarded parathreads.
 - c) View auctions’ progress.
 - d) View and contribute to crowdloans.
-
 4.	**Gilt:** View and participate in auctions for inflation-protected KSM derivatives. 
 5.	**Society:** View and participate in Society-related activities.
 6.	**Event calendar:** Browse upcoming Relay chain events.
