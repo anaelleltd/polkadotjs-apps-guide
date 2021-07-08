@@ -36,7 +36,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 ### PART II: NETWORK
 1.	**Explorer:** Explore latest on-chain data.
 2.	**Staking:** Explore staking-related operations.
-3.	[**Parachains:** Explore parachain-related activities.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.3.Network.pdf) NEW!
+[3.	**Parachains:** Explore parachain-related activities.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.3.Network.pdf) NEW!
 - a) View general parachain information.
 - b) View onboarded parathreads.
 - c) View auctions’ progress.
