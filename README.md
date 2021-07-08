@@ -8,7 +8,7 @@ Find your way around Polkadot-JS Apps by using our downloadable documentation.
 
 ## Getting Started
 This guide is divided into 9 parts.
-These 9 parts are ordered in level of difficulty (Beginner -> Advanced).
+These 9 parts are ordered in level of conceptual difficulty (Beginner -> Advanced).
 Each part covers multiple functionalities of Polkadot-JS Apps.
 Each part will be published as it becomes available (i.e non-linearly).
 
@@ -18,7 +18,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 1.	**Default themes:** Switch Dark/Light themes to suit your visual needs.
 2.	**Default languages:** Change the interface language to suit your translation needs.
 
-### [PART I: ACCOUNTS (Basic setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/1.Accounts%20(Basic).pdf)
+### [PART I: ACCOUNTS (Basic setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/1.Accounts%20(Basic).pdf) NEW!
 1.	**Accounts:** Manage your accounts.
 - a) Create a Polkadot-JS account from a new Seed and save it in a JSON file.
 - b) Import a Polkadot-JS account from a JSON file.
@@ -36,7 +36,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 ### PART II: NETWORK
 1.	**Explorer:** Explore latest on-chain data.
 2.	**Staking:** Explore staking-related operations.
-3.	[**Parachains:** Explore parachain-related activities.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.3.Network.pdf)
+3.	[**Parachains:** Explore parachain-related activities.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.3.Network.pdf) NEW!
 - a) View general parachain information.
 - b) View onboarded parathreads.
 - c) View auctions’ progress.
