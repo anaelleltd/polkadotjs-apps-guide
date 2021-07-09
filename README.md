@@ -1,6 +1,6 @@
 # GUIDE TO POLKADOT-JS APPS
 
-A comprehensive collection of step-by-step instructions for [Polkadot-JS Apps](https://polkadot.js.org/apps/#/accounts).
+A comprehensive collection of step-by-step instructions for [Polkadot-JS Apps](https://cloudflare-ipfs.com/ipns/dotapps.io/#/accounts).
 
 ## Description
 
@@ -84,7 +84,7 @@ Free to download/convert/translate.
 ## Acknowledgments
 
 Official documentation from Parity Technologies and Web3 Foundation:
-* [Polkadot-JS Website](https://polkadot.js.org/docs/ )
+* [Polkadot-JS Website](https://polkadot.js.org/docs/)
 * [Polkadot-JS Apps GitHub](https://github.com/polkadot-js/apps)
 * [Polkadot Wiki](https://wiki.polkadot.network/)
 * [Kusama Network Wiki](https://guide.kusama.network/docs/contributing/)
