@@ -1,6 +1,6 @@
 # GUIDE TO POLKADOT-JS APPS
 
-A comprehensive collection of step-by-step instructions for [Polkadot-JS Apps](https://cloudflare-ipfs.com/ipns/dotapps.io/#/accounts).
+A comprehensive collection of step-by-step instructions for [Polkadot-JS Apps](https://polkadot.js.org/apps/#/accounts).
 
 ## Description
 
