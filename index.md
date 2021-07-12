@@ -12,13 +12,15 @@ These 9 parts are ordered in level of conceptual difficulty (Beginner -> Advance
 Each part covers multiple functionalities of Polkadot-JS Apps.
 Each part will be published as it becomes available (i.e non-linearly).
 
+
 ## Table of contents
 
-### [PART 0: ACCESSIBILITY](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/0.Accessibility.pdf)
-1.	**Default themes:** Switch Dark/Light themes to suit your visual needs.
-2.	**Default languages:** Change the interface language to suit your translation needs.
+### [PART 0: POLKADOT-JS (Wallet setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/0.PolkadotJS%20(Wallet).pdf) NEW!
+1.	**Extension:** Download and install the browser extension.
+2.	**Wallet:** Create a wallet from the browser extension.
+3.	**Settings:** Manage browser extension settings.
 
-### [PART I: ACCOUNTS (Basic setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/1.Accounts%20(Basic).pdf) NEW!
+### [PART I: ACCOUNTS (Basic setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/1.Accounts%20(Basic).pdf) Updated!
 1.	**Accounts:** Manage your accounts.
 - a) Create a Polkadot-JS account from a new Seed and save it in a JSON file.
 - b) Import a Polkadot-JS account from a JSON file.
@@ -32,16 +34,28 @@ Each part will be published as it becomes available (i.e non-linearly).
 4.	**Transfer:** Send KSM to another KSM address.
 5.	**Teleport:** Send your KSM to a parachain address.
 
-
 ### PART II: NETWORK
 1.	**Explorer:** Explore latest on-chain data.
-2.	**Staking:** Explore staking-related operations.
-3.	[**Parachains:** Explore parachain-related activities.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.3.Network.pdf) NEW!
+2.	[**Staking:** Explore staking-related operations.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.2.Network.pdf) NEW!
+- a) View general staking information.
+- b) Manage account nominations:
+     - Set nominators.
+     - Add stashes.
+     - Bond more funds.
+     - Unbond funds.
+     - Change controller account.
+     - Change reward destination.
+     - Set nominees.
+- c) Check payouts from recent eras.
+- d) Check nomination targets.
+- e) Check the list of waiting validators.
+- f) Check the list of slashed validators.
+- g) Check the statistics of individual validators.
+3.	[**Parachains:** Explore parachain-related activities.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.3.Network.pdf)
 - a) View general parachain information.
 - b) View onboarded parathreads.
 - c) View auctions’ progress.
 - d) View and contribute to crowdloans.
-
 4.	**Gilt:** View and participate in auctions for inflation-protected KSM derivatives. 
 5.	**Society:** View and participate in Society-related activities.
 6.	**Event calendar:** Browse upcoming Relay chain events.
@@ -60,6 +74,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 ### PART VII: SETTINGS
 
 ### PART VIII: DEVELOPER
+
 
 ## Contribute!
 
