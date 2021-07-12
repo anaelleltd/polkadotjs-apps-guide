@@ -39,7 +39,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 2.	[**Staking:** Explore staking-related operations.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.2.Network.pdf) NEW!
 - a) View general staking information.
 - b) Manage account nominations:
-     - Set up nominators.
+     - Set nominators.
      - Add stashes.
      - Bond more funds.
      - Unbond funds.
