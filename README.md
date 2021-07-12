@@ -65,7 +65,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 
 ### PART IV: GOVERNANCE
 
-### [PART V: POLKADOT-JS (Substrate setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/5.PolkadotJS%20(Substrate).pdf)
+### [PART V: POLKADOT-JS (Substrate setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/5.PolkadotJS%20(Substrate).pdf) Updated!
 1.	**Substrate accounts:** Set Substrate networks for your Polkadot-JS accounts. 
 2.	**Substrate chains:** Switch between Relay chains/Parachains/Testnets’ interfaces.
 
