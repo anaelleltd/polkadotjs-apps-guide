@@ -50,7 +50,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 - d) Check nomination targets.
 - e) Check the list of waiting validators.
 - f) Check the list of slashed validators.
-- g) View individual validator’s statistics.
+- g) Check the statistics of individual validators.
 3.	[**Parachains:** Explore parachain-related activities.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.3.Network.pdf)
 - a) View general parachain information.
 - b) View onboarded parathreads.
