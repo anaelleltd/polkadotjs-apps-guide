@@ -38,14 +38,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 1.	**Explorer:** Explore latest on-chain data.
 2.	[**Staking:** Explore staking-related operations.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.2.Network.pdf) NEW!
 - a) View general staking information.
-- b) Manage account nominations:
-     - Set nominators.
-     - Add stashes.
-     - Bond more funds.
-     - Unbond funds.
-     - Change controller account.
-     - Change reward destination.
-     - Set nominees.
+- b) Manage account nominations: *set nominators, add stashes, bond more funds, unbond funds, change controller account, change reward destination, set nominees.*
 - c) Check payouts from recent eras.
 - d) Check nomination targets.
 - e) Check the list of waiting validators.
@@ -65,7 +58,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 
 ### PART IV: GOVERNANCE
 
-### [PART V: POLKADOT-JS (Substrate setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/5.PolkadotJS%20(Substrate).pdf) Updated!
+### [PART V: POLKADOT-JS (Substrate setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/5.PolkadotJS%20(Substrate).pdf)
 1.	**Substrate accounts:** Set Substrate networks for your Polkadot-JS accounts. 
 2.	**Substrate chains:** Switch between Relay chains/Parachains/Testnets’ interfaces.
 
