@@ -38,14 +38,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 1.	**Explorer:** Explore latest on-chain data.
 2.	[**Staking:** Explore staking-related operations.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.2.Network.pdf) NEW!
 - a) View general staking information.
-- b) Manage account nominations:
-Set nominators.
-Add stashes.
-Bond more funds.
-Unbond funds.
-Change controller account.
-Change reward destination.
-Set nominees.
+- b) Manage account nominations: Set nominators, Add stashes, Bond more funds, Unbond funds, Change controller account, Change reward destination, Set nominees.
 - c) Check payouts from recent eras.
 - d) Check nomination targets.
 - e) Check the list of waiting validators.
