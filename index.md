@@ -50,7 +50,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 - c) View auctions’ progress.
 - d) View and contribute to crowdloans.
 4.	**Gilt:** View and participate in auctions for inflation-protected KSM derivatives. 
-5.	**Society:** View and participate in Society-related activities.
+5.	**Society:** View and participate in Kappa Sigma Mu activities.
 6.	**Event calendar:** Browse upcoming Relay chain events.
 
 
