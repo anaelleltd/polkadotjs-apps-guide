@@ -2,9 +2,11 @@
 
 A comprehensive collection of step-by-step instructions for [Polkadot-JS Apps](https://polkadot.js.org/apps/#/accounts).
 
+
 ## Description
 
 Find your way around Polkadot-JS Apps by using our downloadable documentation.
+
 
 ## Getting Started
 This guide is divided into 9 parts.
@@ -15,12 +17,12 @@ Each part will be published as it becomes available (i.e non-linearly).
 
 ## Table of contents
 
-### [PART 0: POLKADOT-JS (Wallet setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/0.PolkadotJS%20(Wallet).pdf) NEW!
+### [PART 0: POLKADOT-JS (Wallet setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/0.PolkadotJS%20(Wallet).pdf)
 1.	**Extension:** Download and install the browser extension.
 2.	**Wallet:** Create a wallet from the browser extension.
 3.	**Settings:** Manage browser extension settings.
 
-### [PART I: ACCOUNTS (Basic setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/1.Accounts%20(Basic).pdf) Updated!
+### [PART I: ACCOUNTS (Basic setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/1.Accounts%20(Basic).pdf) 
 1.	**Accounts:** Manage your accounts.
 - a) Create a Polkadot-JS account from a new Seed and save it in a JSON file.
 - b) Import a Polkadot-JS account from a JSON file.
@@ -36,7 +38,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 
 ### PART II: NETWORK
 1.	**Explorer:** Explore latest on-chain data.
-2.	[**Staking:** Explore staking-related operations.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.2.Network.pdf) NEW!
+2.	[**Staking:** Explore staking-related operations.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.2.Network.pdf) Updated!
 - a) View general staking information.
 - b) Manage account nominations: *set nominators, add stashes, bond more funds, unbond funds, change controller account, change reward destination, set nominees.*
 - c) Check payouts from recent eras.
@@ -53,12 +55,11 @@ Each part will be published as it becomes available (i.e non-linearly).
 5.	**Society:** View and participate in *Kappa Sigma Mu* activities.
 6.	**Event calendar:** Browse upcoming Relay chain events.
 
-
 ### PART III: ACCOUNTS (Intermediate setups)
 
 ### PART IV: GOVERNANCE
 
-### [PART V: POLKADOT-JS (Substrate setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/5.PolkadotJS%20(Substrate).pdf) Updated!
+### [PART V: POLKADOT-JS (Substrate setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/5.PolkadotJS%20(Substrate).pdf)
 1.	**Substrate accounts:** Set Substrate networks for your Polkadot-JS accounts. 
 2.	**Substrate chains:** Switch between Relay chains/Parachains/Testnets’ interfaces.
 
@@ -75,13 +76,16 @@ Please advise if you notice any typo or error in this guide so that I can rectif
 
 *Tip box (KSM): HjcErRijmpoiBiKEHT3edPXM3NFycJogVwDPuByNe7hv9Ae*
 
+
 ## Authors
 
 [@Anaelle LTD](https://t.me/AnaelleLTD)
 
+
 ## License
 
 Free to download/convert/translate.
+
 
 ## Acknowledgments
 
