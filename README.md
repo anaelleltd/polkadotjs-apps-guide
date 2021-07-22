@@ -19,6 +19,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 2.	**Wallet:** Create a wallet from the browser extension.
 3.	**Settings:** Manage browser extension settings.
 
+
 ### [PART I: ACCOUNTS (Basic setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/1.Accounts%20(Basic).pdf)
 1.	**Accounts:** Manage your accounts.
 - a) Create a Polkadot-JS account from a new Seed and save it in a JSON file.
@@ -36,7 +37,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 
 ### PART II: NETWORK
 1.	**Explorer:** Explore latest on-chain data.
-2.	[**Staking:** Explore staking-related operations.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.2.Network.pdf) Updated!
+2.	[**Staking:** Explore staking-related operations.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.2.Network.pdf) 
 - a) View general staking information.
 - b) Manage account nominations: *set nominators, add stashes, bond more funds, unbond funds, change controller account, change reward destination, set nominees.*
 - c) Check payouts from recent eras.
@@ -62,21 +63,40 @@ Each part will be published as it becomes available (i.e non-linearly).
 1.	**Substrate accounts:** Set Substrate networks for your Polkadot-JS accounts. 
 2.	**Substrate chains:** Switch between Relay chains/Parachains/Testnets’ interfaces.
 
+
 ### PART VI: ACCOUNTS (Advanced setups)
 
-### PART VII: SETTINGS
+### [PART VII: SETTINGS](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/7.Settings.pdf) NEW!
+1.	**General:** Personalise the Portal’s interface.
+- a) Personalise the default address prefix.
+- b) Personalise the default identicon.
+- c) Personalise the default theme.
+- d) Personalise the default language.
+- e) Personalise hardware wallet connections and create a Polkadot-JS account from Ledger hardware.
+2.	**Metadata:** Explore the Portal’s network settings. 
+- a) Upgrade extensions.
+- b) View chain specifications.
+3.	**Developer:** Define custom types for the Portal’s API.
+4.	**Translate:** Define custom translations for the Portal’s UI.
+
 
 ### PART VIII: DEVELOPER
+
 
 ## Contribute!
 
 Please advise if you notice any typo or error in this guide so that I can rectify it ASAP.
 
+
 ## Authors
 
 [@Anaelle LTD](https://t.me/AnaelleLTD)
 
+
 ## Version History
+
+* 1.2
+    * Part VII.
 
 * 1.1
     * Part 0, I, and V.
@@ -88,9 +108,11 @@ Please advise if you notice any typo or error in this guide so that I can rectif
     * Initial Release.
     * Part 0 and 5 (Prototypes).
 
+
 ## License
 
 Free to download/convert/translate.
+
 
 ## Acknowledgments
 
