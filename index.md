@@ -38,7 +38,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 
 ### PART II: NETWORK
 1.	**Explorer:** Explore latest on-chain data.
-2.	[**Staking:** Explore staking-related operations.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.2.Network.pdf) Updated!
+2.	[**Staking:** Explore staking-related operations.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.2.Network.pdf)
 - a) View general staking information.
 - b) Manage account nominations: *set nominators, add stashes, bond more funds, unbond funds, change controller account, change reward destination, set nominees.*
 - c) Check payouts from recent eras.
@@ -65,7 +65,18 @@ Each part will be published as it becomes available (i.e non-linearly).
 
 ### PART VI: ACCOUNTS (Advanced setups)
 
-### PART VII: SETTINGS
+### [PART VII: SETTINGS](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/7.Settings.pdf) NEW!
+1.	**General:** Personalise the Portal’s interface.
+- a) Personalise the default address prefix.
+- b) Personalise the default identicon.
+- c) Personalise the default theme.
+- d) Personalise the default language.
+- e) Personalise hardware wallet connections and create a Polkadot-JS account from Ledger hardware.
+2.	**Metadata:** Explore the Portal’s network settings. 
+- a) Upgrade extensions.
+- b) View chain specifications.
+3.	**Developer:** Define custom types for the Portal’s API.
+4.	**Translate:** Define custom translations for the Portal’s UI.
 
 ### PART VIII: DEVELOPER
 
