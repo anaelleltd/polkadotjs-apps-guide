@@ -17,12 +17,12 @@ Each part will be published as it becomes available (i.e non-linearly).
 
 ## Table of contents
 
-### [PART 0: POLKADOT-JS (Wallet setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/0.PolkadotJS%20(Wallet).pdf)
+### [PART 0: POLKADOT-JS (Wallet setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/0.PolkadotJS%20(Wallet).pdf) | [FR](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/FR/0.PolkadotJS%20(Portefeuille).pdf) NEW!
 1.	**Extension:** Download and install the browser extension.
 2.	**Wallet:** Create a wallet from the browser extension.
 3.	**Settings:** Manage browser extension settings.
 
-### [PART I: ACCOUNTS (Basic setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/1.Accounts%20(Basic).pdf) 
+### [PART I: ACCOUNTS (Basic setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/1.Accounts%20(Basic).pdf) | [FR](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/FR/1.Comptes%20(Basiques).pdf) NEW! 
 1.	**Accounts:** Manage your accounts.
 - a) Create a Polkadot-JS account from a new Seed and save it in a JSON file.
 - b) Import a Polkadot-JS account from a JSON file.
