@@ -14,13 +14,13 @@ Each part will be published as it becomes available (i.e non-linearly).
 
 ## Table of contents
 
-### [PART 0: POLKADOT-JS (Wallet setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/0.PolkadotJS%20(Wallet).pdf) | [FR](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/FR/0.PolkadotJS%20(Portefeuille).pdf) NEW!
+### [PART 0: POLKADOT-JS (Wallet setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/0.PolkadotJS%20(Wallet).pdf) | [FR](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/FR/0.PolkadotJS%20(Portefeuille).pdf)
 1.	**Extension:** Download and install the browser extension.
 2.	**Wallet:** Create a wallet from the browser extension.
 3.	**Settings:** Manage browser extension settings.
 
 
-### [PART I: ACCOUNTS (Basic setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/1.Accounts%20(Basic).pdf) | [FR](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/FR/1.Comptes%20(Basiques).pdf) NEW!
+### [PART I: ACCOUNTS (Basic setups)](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/1.Accounts%20(Basic).pdf) | [FR](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/FR/1.Comptes%20(Basiques).pdf)
 1.	**Accounts:** Manage your accounts.
 - a) Create a Polkadot-JS account from a new Seed and save it in a JSON file.
 - b) Import a Polkadot-JS account from a JSON file.
@@ -36,7 +36,11 @@ Each part will be published as it becomes available (i.e non-linearly).
 
 
 ### PART II: NETWORK
-1.	**Explorer:** Explore latest on-chain data.
+1.	[**Explorer:** Explore latest blockchain data.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.1.Network.pdf) NEW!
+- a) View blockchain information.
+- b) View block details.
+- c) Monitor blockchain forks.
+- d) Monitor blockchain nodes information.
 2.	[**Staking:** Explore staking-related operations.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.2.Network.pdf) 
 - a) View general staking information.
 - b) Manage account nominations: *set nominators, add stashes, bond more funds, unbond funds, change controller account, change reward destination, set nominees.*
@@ -52,7 +56,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 - d) View and contribute to crowdloans.
 4.	**Gilt:** View and participate in auctions for inflation-protected KSM derivatives. 
 5.	**Society:** View and participate in *Kappa Sigma Mu* activities.
-6.	**Event calendar:** Browse upcoming Relay chain events.
+6.	[**Event calendar:** Browse upcoming Relay chain events.](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/2.6.Network.pdf) NEW!
 
 
 ### PART III: ACCOUNTS (Intermediate setups)
@@ -94,6 +98,9 @@ Please advise if you notice any typo or error in this guide so that I can rectif
 
 
 ## Version History
+
+* 1.3
+    * Part II.1 and II.6.
 
 * 1.2
     * Part VII, Part 0 & I (FR translations).
