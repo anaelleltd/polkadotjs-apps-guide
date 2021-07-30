@@ -70,7 +70,7 @@ Each part will be published as it becomes available (i.e non-linearly).
 
 ### PART VI: ACCOUNTS (Advanced setups)
 
-### [PART VII: SETTINGS](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/7.Settings.pdf) NEW!
+### [PART VII: SETTINGS](https://github.com/anaelleltd/polkadotjs-apps-guide/blob/main/7.Settings.pdf)
 1.	**General:** Personalise the Portal’s interface.
 - a) Personalise the default address prefix.
 - b) Personalise the default identicon.
