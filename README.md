@@ -121,7 +121,7 @@ Please advise if you notice any typo or error in this guide so that I can rectif
 Free to download/convert/translate.
 
 
-## Acknowledgments
+## Acknowledgements
 
 Official documentation from Parity Technologies and Web3 Foundation:
 * [Polkadot-JS Website](https://polkadot.js.org/docs/)
